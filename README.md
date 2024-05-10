@@ -26,8 +26,11 @@ Testing: Postman
 
 
 Project Structure:
+
 src/: Contains the source code for the Spring Boot application.
+
 pom.xml: Maven configuration file for managing dependencies.
+
 README.md: Documentation file providing an overview of the project.
 
 Getting Started:
