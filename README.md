@@ -10,14 +10,20 @@ CRUD APIs for managing assistants: POST, GET, PUT, DELETE.
 Secure and scalable backend architecture.
 Integration with MySQL database for data persistence.
 Comprehensive error handling and validation.
-Documentation for API endpoints.
+
 
 Technology Stack:
+
 Programming Language: Java
+
 Framework: Spring Boot
+
 Database: MySQL
+
 IDE: IntelliJ IDEA
+
 Testing: Postman
+
 
 Project Structure:
 src/: Contains the source code for the Spring Boot application.
