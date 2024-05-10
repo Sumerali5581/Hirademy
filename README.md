@@ -26,6 +26,7 @@ README.md: Documentation file providing an overview of the project.
 
 Getting Started:
 Clone the repository: git clone https://github.com/yourusername/backend-assistant-management.git
+
 Set up MySQL database: Create a MySQL database named hirademy.
 Update the database connection properties in application.properties file.
 
